@@ -147,7 +147,7 @@ To reproduce the experimental results presented in the thesis:
 
 ## Author & Acknowledgments
 
-- **Author:** Yiannis Man (`21390126`)
+- **Author:** IOANNIS MANTZAKOS (`21390126`)
 - **Institution:** University of West Attica (UniWA) — Department of Informatics and Computer Engineering
 
 ## License
@@ -308,7 +308,7 @@ pip install -r requirements.txt
 
 ## Συγγραφέας & Ευχαριστίες
 
-- **Συγγραφέας:** Yiannis Man (`21390126`)
+- **Συγγραφέας:** ΙΩΑΝΝΗΣ ΜΑΝΤΖΑΚΟΣ (`21390126`)
 - **Ίδρυμα:** Πανεπιστήμιο Δυτικής Αττικής (ΠΑΔΑ) — Τμήμα Μηχανικών Πληροφορικής και Υπολογιστών
 
 ## Άδεια Χρήσης
